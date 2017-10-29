@@ -7,5 +7,5 @@ int main()
   {
     printf("Hello, world!\n"); //print to the output
   }
-  return 0; // Tell the os to exit without error
+  return 0; // Tell the os to exit without errors
 }
