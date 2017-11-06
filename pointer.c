@@ -14,5 +14,5 @@ int main(){
   printf(pointer2);
 
   strcpy(pointer2, "y you guys!\n");
-  printf(pointer2);
+  printf(pointer);
 }
